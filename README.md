@@ -17,12 +17,12 @@ Uygulama, kullanıcı dostu bir kurulum süreci ve anlık veri takibi sunan bir 
   <table style="border: none;">
     <tr>
       <td width="50%" align="center">
-        <img src="assets/setup.png" alt="Kurulum Sayfası" width="250px"/><br>
+        <img src="setup.png" alt="Kurulum Sayfası" width="250px"/><br>
         <b>1. Kurulum</b><br>
         <em>(Ayar ve API Yapılandırması)</em>
       </td>
       <td width="50%" align="center">
-        <img src="assets/main.png" alt="Anasayfa" width="250px"/><br>
+        <img src="main.png" alt="Anasayfa" width="250px"/><br>
         <b>2. Dashboard & Canlı Takip</b><br>
         <em>(Sensör Verileri ve AI Analizi)</em>
       </td>
