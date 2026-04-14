@@ -3,7 +3,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![MQTT](https://img.shields.io/badge/MQTT-black?style=for-the-badge&logo=mqtt&logoColor=white)](https://mqtt.org)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-A80007?style=for-the-badge&logo=hack-the-box&logoColor=white)](#-siber-güvenlik-analizi)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1L1QcI2RjySj6g95xAJe6uSbqeFamqMrq/view?usp=sharing)
 
 **AgroAI**, geleneksel bitki yetiştiriciliğindeki hataları minimize etmek için tasarlanmış, **Google Gemini AI** destekli ve **Siber Güvenlik** disipliniyle geliştirilmiş bir IoT ekosistemidir.
 
