@@ -48,7 +48,7 @@ Bu proje, şehir yaşamında sürdürülebilir ev tarımını dijital dönüşü
 ---
 
 ### 👨‍💻 Geliştirici
-**Kemal** *Software Development Student & Cybersecurity Aspirant*
+**Recep** *Software Development Student & Cybersecurity Student
 
 ---
 *Bu proje, **HHY Teknoloji Takımı** bünyesinde geliştirilmiştir.*
