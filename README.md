@@ -37,7 +37,7 @@ This project merges sustainable urban farming with digital transformation. The *
 ## 🛠️ Technical Specifications
 * **Communication:** Sub-100ms data transmission latency via MQTT.
 * **Artificial Intelligence:** Plant health analysis and 95% prediction accuracy using `google_generative_ai`.
-* **Hardware:** Custom chassis designed in Fusion 360 and manufactured with Elegoo Neptune 4 Pro.
+* **Hardware:** Custom chassis designed in Fusion 360
 * **Security:** TLS/SSL vulnerability analysis and `flutter_secure_storage` architecture.
 
 ## 📊 Key Findings
