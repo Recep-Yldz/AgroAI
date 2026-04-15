@@ -1,30 +1,29 @@
-# AgroAI
 # 🌿 AgroAI: AI-Powered & Secure IoT Smart Planter
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![MQTT](https://img.shields.io/badge/MQTT-black?style=for-the-badge&logo=mqtt&logoColor=white)](https://mqtt.org)
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1L1QcI2RjySj6g95xAJe6uSbqeFamqMrq/view?usp=sharing)
 
-**AgroAI**, geleneksel bitki yetiştiriciliğindeki hataları minimize etmek için tasarlanmış, **Google Gemini AI** destekli ve **Siber Güvenlik** disipliniyle geliştirilmiş bir IoT ekosistemidir.
+**AgroAI** is an IoT ecosystem designed to minimize errors in traditional plant cultivation, powered by **Google Gemini AI** and developed with a focus on **Cybersecurity** disciplines.
 
 ---
 
-## 📱 Uygulama Arayüzü
+## 📱 App Interface
 
-Uygulama, kullanıcı dostu bir kurulum süreci ve anlık veri takibi sunan bir anasayfa mimarisine sahiptir.
+The application features a user-friendly setup process and a dashboard architecture for real-time data tracking.
 
 <div align="center">
   <table style="border: none;">
     <tr>
       <td width="50%" align="center">
-        <img src="setup.png" alt="Kurulum Sayfası" width="250px"/><br>
-        <b>1. Kurulum</b><br>
-        <em>(Ayar ve API Yapılandırması)</em>
+        <img src="setup.png" alt="Setup Page" width="250px"/><br>
+        <b>1. Setup</b><br>
+        <em>(Settings & API Configuration)</em>
       </td>
       <td width="50%" align="center">
-        <img src="main.png" alt="Anasayfa" width="250px"/><br>
-        <b>2. Dashboard & Canlı Takip</b><br>
-        <em>(Sensör Verileri ve AI Analizi)</em>
+        <img src="main.png" alt="Dashboard" width="250px"/><br>
+        <b>2. Dashboard & Live Tracking</b><br>
+        <em>(Sensor Data & AI Analysis)</em>
       </td>
     </tr>
   </table>
@@ -32,23 +31,23 @@ Uygulama, kullanıcı dostu bir kurulum süreci ve anlık veri takibi sunan bir 
 
 ---
 
-## 🚀 Proje Hakkında
-Bu proje, şehir yaşamında sürdürülebilir ev tarımını dijital dönüşümle buluşturur. **ESP8266** tabanlı donanım ünitesi; toprak nemi, sıcaklık ve su seviyesi verilerini **MQTT** protokolü ile buluta iletir. **Flutter** tabanlı mobil uygulama ise AI entegrasyonu sayesinde bu verileri analiz ederek bitkiye özel bakım stratejileri üretir.
+## 🚀 About the Project
+This project merges sustainable urban farming with digital transformation. The **ESP8266-based** hardware unit transmits soil moisture, temperature, and water level data to the cloud via the **MQTT** protocol. The **Flutter-based** mobile app then analyzes this data through AI integration to generate plant-specific care strategies.
 
-## 🛠️ Teknik Özellikler
-* **Haberleşme:** MQTT ile 100ms altı veri iletim gecikmesi.
-* **Yapay Zeka:** `google_generative_ai` ile bitki sağlığı analizi ve %95 tahmin doğruluğu.
-* **Donanım:** Fusion 360 tasarımı, Elegoo Neptune 4 Pro üretimi özel şasi.
-* **Güvenlik:** TLS/SSL zafiyet analizi ve `flutter_secure_storage` mimarisi.
+## 🛠️ Technical Specifications
+* **Communication:** Sub-100ms data transmission latency via MQTT.
+* **Artificial Intelligence:** Plant health analysis and 95% prediction accuracy using `google_generative_ai`.
+* **Hardware:** Custom chassis designed in Fusion 360 and manufactured with Elegoo Neptune 4 Pro.
+* **Security:** TLS/SSL vulnerability analysis and `flutter_secure_storage` architecture.
 
-## 📊 Öne Çıkan Bulgular
-- **Başarı Oranı:** Sistem kullanımıyla bitki ölüm oranları **%70 azaldı**.
-- **Verimlilik:** Otonom eşik değerleri manuel kontrole göre **%40 daha efektif** sonuç verdi.
-
----
-
-### 👨‍💻 Geliştirici
-**Recep** *Software Development Student & Cybersecurity Student
+## 📊 Key Findings
+- **Success Rate:** Plant mortality rates decreased by **70%** using the system.
+- **Efficiency:** Autonomous threshold values were **40% more effective** than manual control.
 
 ---
-*Bu proje, **HHY Teknoloji Takımı** bünyesinde geliştirilmiştir.*
+
+### 👨‍💻 Developer
+**Recep** *Software Development & Cybersecurity Student*
+
+---
+*This project was developed within the **HHY Technology Team**.*
