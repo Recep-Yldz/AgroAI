@@ -16,12 +16,12 @@ The application features a user-friendly setup process and a dashboard architect
   <table style="border: none;">
     <tr>
       <td width="50%" align="center">
-        <img src="setup.png" alt="Setup Page" width="250px"/><br>
+        <img src="images/setup.png" alt="Setup Page" width="250px"/><br>
         <b>1. Setup</b><br>
         <em>(Settings & API Configuration)</em>
       </td>
       <td width="50%" align="center">
-        <img src="main.png" alt="Dashboard" width="250px"/><br>
+        <img src="images/main.png" alt="Dashboard" width="250px"/><br>
         <b>2. Dashboard & Live Tracking</b><br>
         <em>(Sensor Data & AI Analysis)</em>
       </td>
