@@ -39,7 +39,7 @@ The hardware layer is built upon the ESP8266 (NodeMCU) platform, featuring a cus
 The prototype validates the integration of multi-modal sensors (Atmospheric DHT11, Ultrasonic HC-SR04, and Capacitive Moisture sensing). A DC-DC LM2596 Buck Converter is utilized for precise voltage regulation.
 
 <div align="center">
-  <img src="images/circuit.png" alt="Circuit Schematic" width="800px"/><br>
+  <img src="images/circiut.png" alt="Circuit Schematic" width="800px"/><br>
   <em>System architecture including sensor arrays and power management.</em>
 </div>
 
